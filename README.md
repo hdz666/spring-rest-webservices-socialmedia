@@ -1,3 +1,3 @@
 # spring-rest-webservices-socialmedia
 
-swagger documentation can be found loading the file using maven
+swagger documentation can be found by importing the file using maven on eclipse

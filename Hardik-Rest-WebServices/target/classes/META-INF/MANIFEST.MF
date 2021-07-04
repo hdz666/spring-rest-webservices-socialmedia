@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: swapn
+Build-Jdk: 15.0.2
+Implementation-Title: restful-web-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hardik.rest.webservices
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/restful-web-s
+ ervices
+Created-By: Maven Integration for Eclipse
+
